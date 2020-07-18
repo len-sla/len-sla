@@ -1,4 +1,4 @@
-![](77.gif)
+![](https://github.com/len-sla/len-sla/blob/master/77.gif)
 
 #### Welcome to my Github profile
 
