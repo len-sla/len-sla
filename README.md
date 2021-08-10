@@ -15,7 +15,7 @@ with he the help of Python.
 
 ![](https://github.com/len-sla/len-sla/blob/master/village_landscape.gif)
 
-> _gif source is notebook from VQGAN repository ![(https://github.com/len-sla/VQGAN_CLIP/blob/main/03-VQGAN%2BCLIP%20(z%2Bquantize%20method%20con%20augmentations%2C%20interfaz%20amigable).ipynb](https://github.com/len-sla/VQGAN_CLIP/blob/main/03-VQGAN%2BCLIP%20(z%2Bquantize%20method%20con%20augmentations%2C%20interfaz%20amigable).ipynb)
+> _gif source is notebook from VQGAN repository ![VQGAN](https://github.com/len-sla/VQGAN_CLIP/blob/main/03-VQGAN%2BCLIP%20(z%2Bquantize%20method%20con%20augmentations%2C%20interfaz%20amigable).ipynb)
 
 >[@len-sla]
 
