@@ -20,6 +20,6 @@ with he the help of Python.
 > "village landscape, made of lines sketch style river sun and trees"_
 
 >
->[lencz.sla@] gmail
+>[lencz.sla@gmail.com]
 
 
