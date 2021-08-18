@@ -19,6 +19,7 @@ with he the help of Python.
 > It was just enough to give as an input sentence:
 > "village landscape, made of lines sketch style river sun and trees"_
 
->[@len-sla]
+>
+>[lencz.sla@] gmail
 
 
