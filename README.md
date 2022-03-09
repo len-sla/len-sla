@@ -6,9 +6,9 @@ It is also kind of attempt to harness a bit of GAN/ML/NLP complexity
 with he the help of Python.
 ---
 
-![](https://github.com/len-sla/len-sla/blob/master/88.gif)
+![](https://github.com/len-sla/len-sla/blob/master/99.gif)
 
-> _gif source 3Dview http://www.rcsb.org using ffmpeg_ 
+> _gif JINA embedings using ffmpeg_ 
 
 
 ---
