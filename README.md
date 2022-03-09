@@ -8,7 +8,7 @@ with he the help of Python.
 
 ![](https://github.com/len-sla/len-sla/blob/master/99.gif)
 
-> _gif JINA embedings using ffmpeg_ 
+> _gif JINA embedings 3D using ffmpeg_ 
 
 
 ---
