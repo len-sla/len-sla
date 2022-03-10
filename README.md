@@ -8,7 +8,7 @@ with he the help of Python.
 
 ![](https://github.com/len-sla/len-sla/blob/master/99.gif)
 
-> _gif JINA embedings 3D using ffmpeg_ 
+> _ Visualisation of JINA Doc Array embedings_ 
 
 
 ---
