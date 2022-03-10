@@ -8,7 +8,7 @@ with he the help of Python.
 
 ![](https://github.com/len-sla/len-sla/blob/master/99.gif)
 
-> _ Visualisation of JINA Doc Array embedings_ 
+> _Visualisation of JINA Doc Array embedings_ 
 
 
 ---
